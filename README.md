@@ -1,5 +1,5 @@
 # Synology CLI
-** A dumb, simple and self contianed wrapper around the wonderful [![Synology Python API][https://github.com/N4S4/synology-api]]**
+**A dumb, simple and self contianed wrapper around the wonderful [Synology Python API](https://github.com/N4S4/synology-api)**
 
 ## How to use it
 
@@ -27,4 +27,4 @@ $ ./synology.py dw REMOTE_FILENAME
 
 ## Credit
 
-Sure, just head over [![Synology Python API][https://github.com/N4S4/synology-api]]
+Sure, just head over [Synology Python API](https://github.com/N4S4/synology-api)
