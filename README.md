@@ -5,7 +5,11 @@
 
 No setup no nothing. As easy as it gets.
 
+You don't even have to clone this repo. You can just do:
+
 ```
+$ curl -O https://raw.githubusercontent.com/GonzaloAlvarez/synologycli/refs/heads/main/synology.py
+$ chmod +x synology.py
 $ ./synology.py ls
 ```
 
